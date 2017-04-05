@@ -5,7 +5,13 @@ a multiwindow-epub-reader for vue and a multiimages-operations for vue
 项目还包括一个多图片的操作器
 本项目暂时只是demo，等项目完成会更新成实际上线时写出来的完整版epub阅读器和多图片操作器
 运行方式  
+克隆项目
+   
 根目录下 
+   npm i  //与npm install 一致
+   npm i element-ui -D
+   npm i style-loader css-loader -D
+   npm i vuex
    npm run dev  
 浏览器中
    localhost:8080/#/reader    //这是阅读器demo
