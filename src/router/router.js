@@ -11,6 +11,11 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
+      path: '/',
+      name: 'reader',
+      component: Reader
+    },
+     {
       path: '/reader',
       name: 'reader',
       component: Reader
