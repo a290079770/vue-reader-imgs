@@ -16,10 +16,14 @@ a multiwindow-epub-reader for vue and a multiimages-operations for vue
 
 安装
   nodeJs 
+  
 根目录下 
-   npm i  //与npm install 一致  安装
-  依赖
+   npm i  //与npm install 一致 
+   
+安装依赖
    npm run dev  
+   
+   
 浏览器中
    localhost:8080/#/reader    //这是阅读器demo
    
